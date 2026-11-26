@@ -1,0 +1,56 @@
+# ============================================================
+#  Unity 工程专用 .gitignore
+#  说明：Library/、Temp/、webgl/、tt-minigame/ 等目录为本地缓存与构建
+#  产物，可由工程重新生成，因此不纳入版本管理。
+# ============================================================
+
+# ---- Unity 本地缓存与生成目录 ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# ---- IDE / 工程文件（Unity 会自动重建）----
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# ---- 打包产物 ----
+/webgl/
+/tt-minigame/
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ---- 本工程临时文件 ----
+*.bak
+*.tmp
+*.log
+crashlytics-build.properties
+sysinfo.txt
+
+# ---- 系统 / 工具 ----
+.DS_Store
+Thumbs.db
+__MACOSX/
+.workbuddy/
