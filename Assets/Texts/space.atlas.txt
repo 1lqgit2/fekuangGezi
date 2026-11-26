@@ -1,0 +1,27 @@
+
+space.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+space_sky
+  rotate: false
+  xy: 2, 2
+  size: 461, 461
+  orig: 461, 461
+  offset: 0, 0
+  index: -1
+space_spiral
+  rotate: false
+  xy: 465, 2
+  size: 461, 461
+  orig: 461, 461
+  offset: 0, 0
+  index: -1
+space_star
+  rotate: false
+  xy: 928, 409
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

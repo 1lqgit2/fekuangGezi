@@ -1,0 +1,153 @@
+
+explode_d1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+explode/explode1
+  rotate: false
+  xy: 2, 568
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode10
+  rotate: false
+  xy: 456, 568
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode11
+  rotate: false
+  xy: 683, 739
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode12
+  rotate: false
+  xy: 2, 55
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode13
+  rotate: false
+  xy: 229, 226
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode14
+  rotate: false
+  xy: 456, 397
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode15
+  rotate: false
+  xy: 683, 568
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode16
+  rotate: false
+  xy: 229, 55
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode17
+  rotate: false
+  xy: 456, 226
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode18
+  rotate: false
+  xy: 683, 397
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode19
+  rotate: false
+  xy: 456, 55
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode2
+  rotate: false
+  xy: 229, 739
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode3
+  rotate: false
+  xy: 229, 739
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode20
+  rotate: false
+  xy: 683, 226
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode21
+  rotate: false
+  xy: 683, 55
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode4
+  rotate: false
+  xy: 2, 397
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode5
+  rotate: false
+  xy: 229, 568
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode6
+  rotate: false
+  xy: 456, 739
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode7
+  rotate: false
+  xy: 2, 226
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode8
+  rotate: false
+  xy: 229, 397
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+explode/explode9
+  rotate: false
+  xy: 2, 739
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1

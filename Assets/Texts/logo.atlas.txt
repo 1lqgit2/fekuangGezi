@@ -1,0 +1,83 @@
+
+logo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo/logo_c1
+  rotate: false
+  xy: 330, 3
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+logo/logo_c2
+  rotate: false
+  xy: 3, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+logo/logo_c3
+  rotate: false
+  xy: 134, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+logo/logo_c4
+  rotate: false
+  xy: 265, 166
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+logo/logo_c5
+  rotate: false
+  xy: 3, 297
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+logo/logo_c6
+  rotate: false
+  xy: 134, 297
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+logo/logo_dot
+  rotate: false
+  xy: 367, 297
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+logo/logo_o
+  rotate: false
+  xy: 167, 3
+  size: 160, 159
+  orig: 160, 159
+  offset: 0, 0
+  index: -1
+logo/logo_o_aim
+  rotate: false
+  xy: 3, 3
+  size: 161, 160
+  orig: 161, 160
+  offset: 0, 0
+  index: -1
+logo/logo_o_hole
+  rotate: false
+  xy: 404, 297
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+logo/wing
+  rotate: false
+  xy: 265, 297
+  size: 99, 50
+  orig: 99, 50
+  offset: 0, 0
+  index: -1

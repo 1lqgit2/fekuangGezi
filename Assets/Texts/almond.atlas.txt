@@ -1,0 +1,76 @@
+
+almond.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+almond_bad
+  rotate: false
+  xy: 100, 361
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+almond_closed
+  rotate: false
+  xy: 2, 330
+  size: 96, 156
+  orig: 96, 156
+  offset: 0, 0
+  index: -1
+almond_open
+  rotate: false
+  xy: 2, 191
+  size: 95, 137
+  orig: 95, 137
+  offset: 0, 0
+  index: -1
+almond_seed
+  rotate: false
+  xy: 2, 64
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+color_almond
+  rotate: false
+  xy: 346, 361
+  size: 79, 125
+  orig: 79, 125
+  offset: 0, 0
+  index: -1
+fire_almond
+  rotate: false
+  xy: 182, 361
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+ice_almond
+  rotate: false
+  xy: 264, 361
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+pistachio_part
+  rotate: true
+  xy: 100, 328
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+space_pistachio
+  rotate: false
+  xy: 427, 378
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1
+tnt_pistachio
+  rotate: true
+  xy: 2, 3
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1

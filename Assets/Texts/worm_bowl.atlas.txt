@@ -1,0 +1,41 @@
+
+worm_bowl.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_bowl
+  rotate: false
+  xy: 2, 219
+  size: 266, 148
+  orig: 266, 148
+  offset: 0, 0
+  index: -1
+bonus_bowl2
+  rotate: false
+  xy: 2, 167
+  size: 266, 50
+  orig: 266, 50
+  offset: 0, 0
+  index: -1
+worm_body
+  rotate: false
+  xy: 270, 288
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+worm_eye
+  rotate: false
+  xy: 2, 127
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+worm_mouth
+  rotate: false
+  xy: 270, 279
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1

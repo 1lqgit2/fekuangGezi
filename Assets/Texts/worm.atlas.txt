@@ -1,0 +1,62 @@
+
+worm.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+worm_body
+  rotate: false
+  xy: 2, 33
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+worm_eye
+  rotate: false
+  xy: 329, 79
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+worm_gold_body
+  rotate: false
+  xy: 112, 33
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+worm_gold_crown
+  rotate: false
+  xy: 222, 37
+  size: 105, 84
+  orig: 105, 84
+  offset: 0, 0
+  index: -1
+worm_gold_eye
+  rotate: false
+  xy: 362, 79
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+worm_gold_mouth
+  rotate: false
+  xy: 100, 23
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+worm_hole
+  rotate: false
+  xy: 2, 2
+  size: 96, 29
+  orig: 96, 29
+  offset: 0, 0
+  index: -1
+worm_mouth
+  rotate: false
+  xy: 329, 69
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1

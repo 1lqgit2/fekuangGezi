@@ -1,0 +1,20 @@
+
+crown.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crown
+  rotate: false
+  xy: 2, 75
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1

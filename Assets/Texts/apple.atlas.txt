@@ -1,0 +1,90 @@
+
+apple.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple_aim
+  rotate: false
+  xy: 2, 304
+  size: 74, 205
+  orig: 74, 205
+  offset: 0, 0
+  index: -1
+apple_bad
+  rotate: false
+  xy: 2, 97
+  size: 73, 205
+  orig: 73, 205
+  offset: 0, 0
+  index: -1
+apple_color
+  rotate: false
+  xy: 78, 304
+  size: 73, 205
+  orig: 73, 205
+  offset: 0, 0
+  index: -1
+apple_fire
+  rotate: false
+  xy: 77, 97
+  size: 73, 205
+  orig: 73, 205
+  offset: 0, 0
+  index: -1
+apple_ice
+  rotate: false
+  xy: 153, 304
+  size: 73, 205
+  orig: 73, 205
+  offset: 0, 0
+  index: -1
+apple_seed1
+  rotate: false
+  xy: 152, 97
+  size: 73, 205
+  orig: 73, 205
+  offset: 0, 0
+  index: -1
+apple_seed2
+  rotate: true
+  xy: 2, 22
+  size: 73, 205
+  orig: 73, 205
+  offset: 0, 0
+  index: -1
+apple_seed3
+  rotate: false
+  xy: 228, 304
+  size: 73, 205
+  orig: 73, 205
+  offset: 0, 0
+  index: -1
+durian_aim2
+  rotate: true
+  xy: 2, 2
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+durian_fire2
+  rotate: false
+  xy: 227, 184
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+durian_ice2
+  rotate: false
+  xy: 303, 447
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+durian_tnt
+  rotate: false
+  xy: 227, 220
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1

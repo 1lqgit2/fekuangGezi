@@ -1,0 +1,741 @@
+
+new_dove.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+army_chick_wing
+  rotate: false
+  xy: 813, 1734
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+army_chick_wing_b
+  rotate: false
+  xy: 1593, 1734
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+army_chicken_wing
+  rotate: false
+  xy: 813, 1640
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+army_chicken_wing_b
+  rotate: false
+  xy: 1593, 1640
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+army_pigeon_wing
+  rotate: false
+  xy: 969, 1640
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+army_pigeon_wing_b
+  rotate: true
+  xy: 442, 637
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+army_seagull_wing
+  rotate: false
+  xy: 969, 1734
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+army_seagull_wing_b
+  rotate: false
+  xy: 1748, 1734
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+beak1
+  rotate: false
+  xy: 1993, 1830
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+beak_mouth
+  rotate: false
+  xy: 1867, 1611
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+blacky_eye
+  rotate: false
+  xy: 568, 942
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+blacky_wing
+  rotate: false
+  xy: 1748, 1640
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 374, 1828
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_army
+  rotate: false
+  xy: 594, 1828
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_army2
+  rotate: false
+  xy: 814, 1828
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_army3
+  rotate: false
+  xy: 1034, 1828
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_army4
+  rotate: false
+  xy: 1254, 1828
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_dots
+  rotate: false
+  xy: 1474, 1828
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_dots_f
+  rotate: false
+  xy: 153, 1827
+  size: 219, 219
+  orig: 219, 219
+  offset: 0, 0
+  index: -1
+body_grad
+  rotate: false
+  xy: 1694, 1828
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_grad2
+  rotate: false
+  xy: 153, 1607
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_grad2_f
+  rotate: false
+  xy: 96, 1387
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_grad_f
+  rotate: false
+  xy: 96, 1167
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_grad_stom
+  rotate: false
+  xy: 35, 947
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_gradi_back
+  rotate: false
+  xy: 2, 727
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_mesh
+  rotate: false
+  xy: 2, 507
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_shorts
+  rotate: false
+  xy: 2, 287
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_stom
+  rotate: false
+  xy: 2, 67
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+body_stom_f
+  rotate: false
+  xy: 255, 947
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+chick_eye
+  rotate: false
+  xy: 478, 858
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+chick_wing
+  rotate: true
+  xy: 536, 1452
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+chicken_eye
+  rotate: false
+  xy: 478, 813
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+chicken_wing
+  rotate: true
+  xy: 536, 1297
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 785, 1580
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+color_eye
+  rotate: false
+  xy: 241, 22
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+color_wing
+  rotate: false
+  xy: 1125, 1734
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+crosshair
+  rotate: false
+  xy: 478, 903
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+easter_wing
+  rotate: false
+  xy: 1125, 1640
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+eye_closed
+  rotate: false
+  xy: 286, 22
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+fb_figure10
+  rotate: false
+  xy: 442, 247
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+fb_hair_mohamed
+  rotate: false
+  xy: 222, 727
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+fire_big1
+  rotate: false
+  xy: 1265, 1595
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+fire_big2
+  rotate: false
+  xy: 1369, 1595
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+fire_big3
+  rotate: false
+  xy: 1473, 1595
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+fire_big4
+  rotate: false
+  xy: 1577, 1595
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+fire_pistol1
+  rotate: false
+  xy: 1814, 1611
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+fire_pistol2
+  rotate: false
+  xy: 475, 951
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+fire_pistol3
+  rotate: true
+  xy: 2, 956
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+fire_pistol4
+  rotate: false
+  xy: 1760, 1611
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+frutti_eye
+  rotate: false
+  xy: 331, 22
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+frutti_wing
+  rotate: false
+  xy: 630, 1514
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+gr_parrot_eye
+  rotate: false
+  xy: 376, 22
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+gr_parrot_hair
+  rotate: true
+  xy: 157, 2
+  size: 18, 55
+  orig: 18, 55
+  offset: 0, 0
+  index: -1
+gr_parrot_tail
+  rotate: true
+  xy: 442, 792
+  size: 153, 34
+  orig: 153, 34
+  offset: 0, 0
+  index: -1
+gr_parrot_wing
+  rotate: false
+  xy: 1281, 1734
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 813, 1599
+  size: 39, 113
+  orig: 39, 113
+  offset: 0, 0
+  index: -1
+hair_head
+  rotate: true
+  xy: 35, 1185
+  size: 109, 54
+  orig: 109, 54
+  offset: 0, 0
+  index: -1
+hair_pea
+  rotate: true
+  xy: 928, 1599
+  size: 39, 113
+  orig: 39, 113
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 222, 507
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+head_soft
+  rotate: false
+  xy: 222, 287
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+kiwi_eye
+  rotate: false
+  xy: 421, 22
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+leg_new
+  rotate: false
+  xy: 2, 51
+  size: 237, 14
+  orig: 237, 14
+  offset: 0, 0
+  index: -1
+mohamed_wing
+  rotate: false
+  xy: 630, 1420
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+neck_circle
+  rotate: false
+  xy: 222, 67
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+neck_grad
+  rotate: false
+  xy: 316, 1387
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+neck_star
+  rotate: false
+  xy: 316, 1167
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+neck_star2
+  rotate: false
+  xy: 373, 1607
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+neck_tex
+  rotate: false
+  xy: 593, 1608
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+oriolus_eye
+  rotate: false
+  xy: 466, 28
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+oriolus_wing
+  rotate: false
+  xy: 630, 1326
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+pants1
+  rotate: false
+  xy: 442, 136
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+pants2
+  rotate: false
+  xy: 505, 136
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+pants3
+  rotate: true
+  xy: 442, 73
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+pants4
+  rotate: true
+  xy: 1043, 1577
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+pants5
+  rotate: true
+  xy: 1154, 1577
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+parrot_eye
+  rotate: false
+  xy: 511, 28
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+parrot_wing
+  rotate: true
+  xy: 536, 1142
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+peacock_eye
+  rotate: false
+  xy: 785, 1535
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+peacock_tail
+  rotate: false
+  xy: 2, 14
+  size: 153, 35
+  orig: 153, 35
+  offset: 0, 0
+  index: -1
+peacock_wing
+  rotate: false
+  xy: 630, 1232
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+pigeon_beak_dot
+  rotate: false
+  xy: 214, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+pigeon_eye
+  rotate: false
+  xy: 785, 1490
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+pigeon_p_eye
+  rotate: false
+  xy: 785, 1445
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+pigeon_p_wing
+  rotate: false
+  xy: 1281, 1640
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+pigeon_wing
+  rotate: false
+  xy: 630, 1138
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+red_eye
+  rotate: false
+  xy: 785, 1400
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+red_wing
+  rotate: false
+  xy: 1437, 1734
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+seagull_eye
+  rotate: false
+  xy: 785, 1355
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+seagull_wing
+  rotate: true
+  xy: 519, 987
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 1010
+  size: 284, 31
+  orig: 284, 31
+  offset: 0, 0
+  index: -1
+shot_ak47
+  rotate: false
+  xy: 2, 1664
+  size: 149, 382
+  orig: 149, 382
+  offset: 0, 0
+  index: -1
+shot_glock
+  rotate: false
+  xy: 442, 358
+  size: 84, 122
+  orig: 84, 122
+  offset: 0, 0
+  index: -1
+shot_knife
+  rotate: false
+  xy: 475, 980
+  size: 42, 185
+  orig: 42, 185
+  offset: 0, 0
+  index: -1
+shot_shotgun
+  rotate: false
+  xy: 2, 1296
+  size: 92, 366
+  orig: 92, 366
+  offset: 0, 0
+  index: -1
+solan_eye
+  rotate: false
+  xy: 785, 1310
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+solan_wing
+  rotate: false
+  xy: 1437, 1640
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+tail_round
+  rotate: false
+  xy: 1914, 1830
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+tail_sharp
+  rotate: false
+  xy: 157, 22
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+tail_square
+  rotate: false
+  xy: 1681, 1611
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+tropical_eye
+  rotate: false
+  xy: 96, 1614
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+tropical_wing
+  rotate: false
+  xy: 613, 1044
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+wing_back
+  rotate: false
+  xy: 613, 950
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+wing_mesh
+  rotate: true
+  xy: 1914, 1859
+  size: 187, 110
+  orig: 187, 110
+  offset: 0, 0
+  index: -1
+wood_eye
+  rotate: false
+  xy: 785, 1266
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+wood_wing
+  rotate: true
+  xy: 442, 482
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1

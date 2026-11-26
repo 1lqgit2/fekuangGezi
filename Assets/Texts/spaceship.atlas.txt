@@ -1,0 +1,83 @@
+
+spaceship.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: false
+  xy: 425, 90
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+space_body
+  rotate: false
+  xy: 200, 57
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+space_circle
+  rotate: false
+  xy: 395, 89
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+space_fire
+  rotate: true
+  xy: 331, 94
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+space_fire2
+  rotate: true
+  xy: 260, 74
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+space_glow
+  rotate: false
+  xy: 119, 19
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+space_leg
+  rotate: false
+  xy: 454, 90
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+space_leg_m
+  rotate: true
+  xy: 119, 5
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+space_light
+  rotate: false
+  xy: 200, 35
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+space_window
+  rotate: false
+  xy: 479, 94
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

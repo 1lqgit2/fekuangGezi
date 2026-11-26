@@ -1,0 +1,20 @@
+
+weather_sunny.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_light
+  rotate: false
+  xy: 2, 301
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+bg_ray
+  rotate: false
+  xy: 2, 325
+  size: 358, 35
+  orig: 358, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+background.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_almond
+  rotate: false
+  xy: 2, 1445
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+back_black
+  rotate: false
+  xy: 311, 1445
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+back_cherry
+  rotate: false
+  xy: 2, 621
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+back_corn
+  rotate: false
+  xy: 311, 1033
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+back_hazelnut
+  rotate: false
+  xy: 2, 1033
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+back_kiwi
+  rotate: false
+  xy: 620, 1445
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+back_peas
+  rotate: false
+  xy: 2, 209
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+back_pome
+  rotate: false
+  xy: 311, 621
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+back_straw
+  rotate: false
+  xy: 620, 1033
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+back_water
+  rotate: false
+  xy: 929, 1445
+  size: 307, 410
+  orig: 307, 410
+  offset: 0, 0
+  index: -1
+grad-01
+  rotate: false
+  xy: 2, 2
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1

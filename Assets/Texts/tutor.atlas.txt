@@ -1,0 +1,139 @@
+
+tutor.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tutor_body
+  rotate: false
+  xy: 434, 248
+  size: 314, 247
+  orig: 314, 247
+  offset: 0, 0
+  index: -1
+tutor_corn
+  rotate: false
+  xy: 855, 405
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+tutor_corn2
+  rotate: true
+  xy: 932, 420
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+tutor_death
+  rotate: false
+  xy: 750, 400
+  size: 103, 95
+  orig: 103, 95
+  offset: 0, 0
+  index: -1
+tutor_dialog
+  rotate: false
+  xy: 2, 185
+  size: 430, 310
+  orig: 430, 310
+  offset: 0, 0
+  index: -1
+tutor_equally
+  rotate: true
+  xy: 712, 207
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+tutor_eye
+  rotate: false
+  xy: 750, 242
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+tutor_eye2
+  rotate: false
+  xy: 634, 170
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+tutor_head
+  rotate: true
+  xy: 2, 2
+  size: 181, 355
+  orig: 181, 355
+  offset: 0, 0
+  index: -1
+tutor_like
+  rotate: false
+  xy: 750, 320
+  size: 98, 78
+  orig: 98, 78
+  offset: 0, 0
+  index: -1
+tutor_mouth
+  rotate: false
+  xy: 445, 95
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+tutor_mouth2
+  rotate: false
+  xy: 359, 2
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+tutor_mouth3
+  rotate: false
+  xy: 855, 345
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+tutor_mouth4
+  rotate: false
+  xy: 522, 112
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+tutor_mouth5
+  rotate: false
+  xy: 555, 181
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+tutor_mouth6
+  rotate: false
+  xy: 599, 110
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+tutor_tnt
+  rotate: false
+  xy: 359, 89
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+tutor_worm
+  rotate: true
+  xy: 932, 358
+  size: 60, 90
+  orig: 60, 90
+  offset: 0, 0
+  index: -1
+tutor_worm2
+  rotate: true
+  xy: 434, 185
+  size: 61, 119
+  orig: 61, 119
+  offset: 0, 0
+  index: -1

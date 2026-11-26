@@ -1,0 +1,97 @@
+
+hazelnut.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aim_hazelnut
+  rotate: false
+  xy: 2, 97
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+color_hazelnut
+  rotate: false
+  xy: 75, 174
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+fire_hazelnut
+  rotate: false
+  xy: 74, 20
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+hazelnut_bad
+  rotate: true
+  xy: 146, 102
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+hazelnut_bad1
+  rotate: true
+  xy: 188, 60
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+hazelnut_bad2
+  rotate: true
+  xy: 188, 18
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+hazelnut_bad3
+  rotate: true
+  xy: 223, 159
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+hazelnut_cover
+  rotate: false
+  xy: 146, 14
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+hazelnut_seed
+  rotate: false
+  xy: 2, 174
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+hazelnut_space
+  rotate: false
+  xy: 74, 97
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+hazelnut_tnt
+  rotate: false
+  xy: 2, 20
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+ice_hazelnut
+  rotate: false
+  xy: 147, 174
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+pistachio_part
+  rotate: false
+  xy: 219, 201
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1

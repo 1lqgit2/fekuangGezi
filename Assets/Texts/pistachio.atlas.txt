@@ -1,0 +1,97 @@
+
+pistachio.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bad_pistachio
+  rotate: false
+  xy: 2, 388
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1
+color_pistachio
+  rotate: false
+  xy: 2, 278
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1
+fire_pistachio
+  rotate: false
+  xy: 63, 388
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1
+ice_pistachio
+  rotate: false
+  xy: 2, 168
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1
+pistachio_back
+  rotate: false
+  xy: 63, 154
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+pistachio_bad
+  rotate: true
+  xy: 185, 454
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+pistachio_bad1
+  rotate: false
+  xy: 185, 407
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+pistachio_bad2
+  rotate: false
+  xy: 63, 106
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+pistachio_bad3
+  rotate: false
+  xy: 124, 320
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+pistachio_part
+  rotate: false
+  xy: 2, 2
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+pistachio_seed
+  rotate: false
+  xy: 63, 278
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1
+space_pistachio
+  rotate: false
+  xy: 2, 58
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1
+tnt_pistachio
+  rotate: false
+  xy: 124, 388
+  size: 59, 108
+  orig: 59, 108
+  offset: 0, 0
+  index: -1

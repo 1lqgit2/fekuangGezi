@@ -1,0 +1,13 @@
+
+arrow.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tutor_arrow
+  rotate: true
+  xy: 2, 2
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
