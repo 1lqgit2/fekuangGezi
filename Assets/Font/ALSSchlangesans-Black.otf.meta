@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fabba9bee09b47feb39ad2fde29b876c
+timeCreated: 1768490140
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "ALSSchlangesans-Black"
+  fontNames:
+  - ALS Schlange sans
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
